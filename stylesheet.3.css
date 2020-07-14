@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.text{
+    font-size: 48px;
+    color: blue;
+    }
+
+.language-text{
+    display: none;
+    }
+
+.language-text{
+    color: red;
+    font-weight: normal;
+    }
+
+.region{
+    margin-top: 100px;
+    }
+
+
+
+
+
+
+
+
